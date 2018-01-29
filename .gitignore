@@ -9,3 +9,9 @@ Builds/VisualStudio2017/tiv_App.vcxproj
 Builds/VisualStudio2017/tiv_App.vcxproj.filters
 *.vcxproj
 *.filters
+Builds/VisualStudio2017/tiv_App.vcxproj
+*.db
+.vs/TiVives/v15/.suo
+.vs/slnx.sqlite
+Builds/VisualStudio2017/tiv_App.vcxproj
+Builds/VisualStudio2017/tiv_App.vcxproj.filters
