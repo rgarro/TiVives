@@ -15,3 +15,6 @@ Builds/VisualStudio2017/tiv_App.vcxproj
 .vs/slnx.sqlite
 Builds/VisualStudio2017/tiv_App.vcxproj
 Builds/VisualStudio2017/tiv_App.vcxproj.filters
+*.filters
+*.vcxproj
+*.ipch
