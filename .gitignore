@@ -18,3 +18,15 @@ Builds/VisualStudio2017/tiv_App.vcxproj.filters
 *.filters
 *.vcxproj
 *.ipch
+Builds/VisualStudio2017/tiv_App.vcxproj
+Builds/VisualStudio2017/tiv_App.vcxproj
+Builds/VisualStudio2017/tiv_App.vcxproj.filters
+Builds/VisualStudio2017/x64/Debug/App/include_juce_audio_basics.obj
+Builds/VisualStudio2017/x64/Debug/App/include_juce_audio_formats.obj
+Builds/VisualStudio2017/x64/Debug/App/include_juce_audio_utils.obj
+Builds/VisualStudio2017/x64/Debug/App/include_juce_core.obj
+*.obj
+*.res
+*.ilk
+*.log
+*.tlog
