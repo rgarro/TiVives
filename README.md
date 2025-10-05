@@ -8,10 +8,14 @@ The Guru asked me to make pilgrimage this power place:
 
 https://www.google.com/maps/@9.861159,-84.7029312,1054m/data=!3m1!1e3
 
-Circumbalate around its center 100 thousand times with a foil and kitesurf until the
-local nagas notice me , then I should recite:
+With a foil and kitesurf or with a downwind foil Circumbalate around its center 108 thousand times while reciting the mantra written below ,until the
+local nagas notice me :
 
 **ohm Koming Koming Kokoman itzu tsha tsha tsha **
+
+BE AWARE:
+
+The tivives Nagas will appear like mini cute white dolphins whose can only be seen by people who developed the dark vision before, If you consider guilty of a capital sin , the Nagas always drag an awful mini cute Beluga guardian of the abbyss who produces punishment. (sir francis drake no pudo volver a culiar ni ser pederasta por andar marineros de Megalaya que le ayudaron a trasladar gases a Monsanto ... )
 
 But first Write a dozen Midi Plugins based on the the Prajnaparamita verses
 Load them in a Roland Jupiter hidden in a zen temple in the island of Kobe ..
@@ -20,7 +24,7 @@ Load them in a Roland Jupiter hidden in a zen temple in the island of Kobe ..
 
 Download For Windows https://github.com/rgarro/TiVives/raw/master/tiv.exe
 
-[![que no se resistieran, por que sino los mataban ... ](https://raw.githubusercontent.com/rgarro/TiVives/master/rsz_vajrapani3.png)]
-[![que no se resistieran, por que sino los mataban ... ](https://raw.githubusercontent.com/rgarro/TiVives/master/IMG_6717.JPG)]
-[![que no se resistieran, por que sino los mataban ... ](https://raw.githubusercontent.com/rgarro/TiVives/master/tivivessTRIKEbACK.PNG)]
-[![que no se resistieran, por que sino los mataban ... ](https://raw.githubusercontent.com/rgarro/TiVives/master/southernTraincopy.jpg)]
+[![Art Blakey is my guru ... ](https://raw.githubusercontent.com/rgarro/TiVives/master/rsz_vajrapani3.png)]
+[![Art Blakey is my guru ... ](https://raw.githubusercontent.com/rgarro/TiVives/master/IMG_6717.JPG)]
+[![Art Blakey is my guru ... ](https://raw.githubusercontent.com/rgarro/TiVives/master/tivivessTRIKEbACK.PNG)]
+[![Art Blakey is my guru ... ](https://raw.githubusercontent.com/rgarro/TiVives/master/nephi.png)]
